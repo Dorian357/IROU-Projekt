@@ -229,5 +229,5 @@ terraform destroy
 
 ---
 
-*IRUO Projekt — Dorian (16.12.) | 2025./2026.*
+*IRUO Projekt — Dorian | 2025./2026.*
 '@ | Set-Content README.md -Encoding UTF8
