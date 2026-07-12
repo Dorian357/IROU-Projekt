@@ -13,6 +13,8 @@ jednom naredbom iz CSV datoteke.
 ## Dijagrami arhitekture
 
 ### Azure arhitektura
+<img width="2720" height="3280" alt="azure_arhitektura_dorian" src="https://github.com/user-attachments/assets/d37c4f2e-8453-4055-8997-2d75e3156a48" />
+
 ![Azure arhitektura](docs/azure-arhitektura.png)
 
 ### OpenStack arhitektura
