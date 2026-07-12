@@ -15,14 +15,18 @@ jednom naredbom iz CSV datoteke.
 ### Azure arhitektura
 <img width="2720" height="3280" alt="azure_arhitektura_dorian" src="https://github.com/user-attachments/assets/d37c4f2e-8453-4055-8997-2d75e3156a48" />
 
+
 ### OpenStack arhitektura
 <img width="2720" height="3280" alt="openstack_arhitektura_dorian" src="https://github.com/user-attachments/assets/33c4b818-20aa-41db-a419-5ae149863630" />
+
 
 ### Azure RBAC model
 <img width="2720" height="2964" alt="azure_rbac_dorian_v2" src="https://github.com/user-attachments/assets/afbcb2cc-3fe0-44ad-b021-ecf89df0c2ee" />
 
+
 ### OpenStack Keystone IAM
 <img width="2720" height="2991" alt="openstack_iam_dorian" src="https://github.com/user-attachments/assets/6cc26c86-0cfe-42d4-9437-d98fd7f2cf23" />
+
 
 ---
 
