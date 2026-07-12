@@ -1,7 +1,7 @@
 # IROU-Projekt
 Multi-Cloud Moodle projektna infrastruktura za firmu TechSprint 
 # TechSprint — Multi-Cloud Moodle Infrastruktura
-### IRUO Projekt — Dorian (16.12.) | 2025./2026.
+### IRUO Projekt — Dorian | 2025./2026.
 
 Automatizirana multi-cloud infrastruktura za IT agenciju TechSprint.
 Svaki programer dobiva izoliranu, neovisnu testnu okolinu za Moodle
